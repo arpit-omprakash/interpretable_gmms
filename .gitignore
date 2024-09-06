@@ -1,5 +1,9 @@
 # User defined files and folders
 old_files/
+plots/*
+output/
+resources/labelling/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
