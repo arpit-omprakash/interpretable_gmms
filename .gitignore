@@ -1,8 +1,14 @@
 # User defined files and folders
 old_files/
 plots/*
-output/
-resources/labelling/
+resources/*
+!resources/labelling/
+resources/labelling/sampled_audio/
+!resources/mod_data/
+resources/mod_data/*
+!resources/models/
+resources/models/*
+
 
 
 # Byte-compiled / optimized / DLL files
