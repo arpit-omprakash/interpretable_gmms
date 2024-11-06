@@ -10,7 +10,8 @@ $ conda create --name <envname> --file requirements.txt
 $ conda activate <envname>
 ```
 
-The audio feature datasets containing VGGish features for audio from various habitats can be downloaded from here: https://doi.org/10.5281/zenodo.13772138 
+The audio feature datasets containing VGGish features for audio from various habitats can be downloaded from here: https://doi.org/10.5281/zenodo.13772138  
+Unzip the contents of the zip file and place the `resources` folder in the root directory of this repository to be able to run the code.
 
 To calculate VGGish features for your own audio files you may refer to the repository below:  
 Sarab Sethi. (2020). sarabsethi/audioset_soundscape_feats_sethi2019: June 2020 release (1.2). Zenodo. https://doi.org/10.5281/zenodo.3907296
